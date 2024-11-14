@@ -1,6 +1,6 @@
 package com.example
 
-import events.MyLong
+import mytypes.MyLong
 
 object Example:
 
